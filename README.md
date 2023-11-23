@@ -1,4 +1,4 @@
-# Hubmap_kidney_semantic_segmentation
+# Hubmap kidney semantic segmentation
 ## Task:
 Segmenting instances of microvascular structures, including capillaries, arterioles, and venules. 
 https://www.kaggle.com/competitions/hubmap-hacking-the-human-vasculature/data
